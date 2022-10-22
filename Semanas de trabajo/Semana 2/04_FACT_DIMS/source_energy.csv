@@ -1,0 +1,19 @@
+idSource,source
+0,all_energy_types
+1,biomass
+2,coal
+3,cogeneration
+4,gas
+5,geothermal
+6,hydro
+7,nuclear
+8,oil
+9,other
+10,other_renewables
+11,petcoke
+12,renewables
+13,solar
+14,storage
+15,waste
+16,wave and tidal
+17,wind
